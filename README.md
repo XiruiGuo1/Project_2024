@@ -1,4 +1,4 @@
-# Project_2028
+# Project_2048
 
 Follow the instructions in the file. This instruction might not be specific enough to cover all cases, feel free to do research on game 2048 to get more familiar with the rules and how you can visualize it. You will need to push your final code into your github account for grading, so please share the link in the doc to the drill platform.  
 
